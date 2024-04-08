@@ -66,6 +66,10 @@ body {
   /* display: flex;
   flex-direction: column;
   justify-content: space-between; */
+
+  /*Grid*/
+  display: grid;
+  grid-template-rows: 1fr auto;
 }
 
 .banner {
