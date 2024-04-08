@@ -8,6 +8,9 @@ body {
   background: #1d202b;
   color: #fff;
   font-family: "Roboto", sans-serif;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
 }
 
 .contenedor {
